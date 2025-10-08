@@ -82,7 +82,3 @@ The main goal is to classify text into *positive* or *negative* sentiments and v
 | **Google Colab Drive API** | To mount and read datasets from Google Drive |
 
 ---
-
-## 🧪 Example Output
-
-### ✅ Logistic Regression (IMDB)
